@@ -1,2 +1,2 @@
 # class
-用于日常学习练习分享
+For sharing of daily study practice materials
